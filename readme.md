@@ -2,6 +2,7 @@
 
 [![NPM Version](https://img.shields.io/npm/v/is-pentagonal.svg)](https://www.npmjs.com/package/is-pentagonal)
 [![Build Status](https://travis-ci.org/dsernst/is-pentagonal.svg?branch=master)](https://travis-ci.org/dsernst/is-pentagonal)
+[![Coverage Status](https://coveralls.io/repos/dsernst/is-pentagonal/badge.svg?branch=master&service=github)](https://coveralls.io/github/dsernst/is-pentagonal?branch=master)
 
 Fastest way to check if a number is [pentagonal](https://en.wikipedia.org/wiki/Pentagonal_number).
 
