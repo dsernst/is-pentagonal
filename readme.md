@@ -1,6 +1,7 @@
 # is-pentagonal
 
 [![NPM Version](https://img.shields.io/npm/v/is-pentagonal.svg)](https://www.npmjs.com/package/is-pentagonal)
+[![Build Status](https://travis-ci.org/dsernst/is-pentagonal.svg?branch=master)](https://travis-ci.org/dsernst/is-pentagonal)
 
 Fastest way to check if a number is [pentagonal](https://en.wikipedia.org/wiki/Pentagonal_number).
 
