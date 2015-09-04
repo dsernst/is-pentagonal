@@ -4,7 +4,9 @@
   "description": "Fastest way to test if a number is pentagonal",
   "main": "index.js",
   "scripts": {
-    "test": "mocha"
+    "test": "mocha",
+    "cover": "istanbul cover _mocha",
+    "coveralls": "npm run cover -- --report lcovonly && cat ./coverage/lcov.info | coveralls"
   },
   "repository": {
     "type": "git",
@@ -24,7 +26,10 @@
   },
   "homepage": "https://github.com/dsernst/is-pentagonal#readme",
   "devDependencies": {
+    "coveralls": "^2.11.4",
+    "istanbul": "^0.3.19",
     "mocha": "^2.3.0",
+    "mocha-lcov-reporter": "0.0.2",
     "should": "^7.1.0"
   }
 }
