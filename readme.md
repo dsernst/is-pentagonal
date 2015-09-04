@@ -1,5 +1,7 @@
 # is-pentagonal
 
+[![NPM Version](https://img.shields.io/npm/v/is-pentagonal.svg)](https://www.npmjs.com/package/is-pentagonal)
+
 Fastest way to check if a number is [pentagonal](https://en.wikipedia.org/wiki/Pentagonal_number).
 
 ## Install
