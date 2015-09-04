@@ -1,6 +1,6 @@
 {
   "name": "is-pentagonal",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "description": "Fastest way to test if a number is pentagonal",
   "main": "index.js",
   "scripts": {
