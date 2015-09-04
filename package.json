@@ -1,0 +1,26 @@
+{
+  "name": "is-pentagonal",
+  "version": "0.0.1",
+  "description": "Fastest way to test if a number is pentagonal",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dsernst/is-pentagonal.git"
+  },
+  "keywords": [
+    "pentagonal",
+    "test",
+    "quick",
+    "square",
+    "ispentagonal"
+  ],
+  "author": "David Ernst <npm@dsernst.com> (http://dsernst.com)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dsernst/is-pentagonal/issues"
+  },
+  "homepage": "https://github.com/dsernst/is-pentagonal#readme"
+}
